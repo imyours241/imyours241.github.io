@@ -12,14 +12,14 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    :  "aqua" #"default" , "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Son's Blog"
+title                    : "손광운 블로그 "
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "My first Blog"
+name                     : "나의 첫 블로그"
 description              : "Born in 1983"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -103,10 +103,10 @@ analytics:
 # Site Author
 author:
   name             : "Son Kwangwoon"
-  avatar           : "/assets/images/bio-photo.jpg"
-  bio              : "I am interested in **Data Science & programming**"
+  avatar           : "/assets/images/G0180416.JPG"
+  bio              : "**데이터분석 알고리즘 및 프로그래밍** 공부를 하고 있습니다."
   location         : "South Korea"
-  email            :
+  email            : "imyours241@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
